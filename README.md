@@ -26,7 +26,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![Image](./test_two/sleepingcat.jpg)
+![Image](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%8C%AB&step_word=&hs=2&pn=5&spn=0&di=156200&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf8&in=&cl=2&lm=-1&st=undefined&cs=1189426794%2C1991844916&os=1777698603%2C1607425215&simid=3439530275%2C351017728&adpicid=0&lpn=0&ln=1405&fr=&fmq=1600394193709_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fwww.ykjsxy.net%2Fuploads%2Fallimg%2F200318%2F1-20031Q011405K.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Byh3fxy_z%26e3BgjpAzdH3FvozfAzdH3Fdadaan8bAzdH3F900n_z%26e3Bip4s&gsm=6&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
